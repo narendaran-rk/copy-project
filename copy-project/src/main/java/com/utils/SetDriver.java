@@ -1,6 +1,6 @@
 package com.utils;
 
-/*created by Sakthi Ganes -13/12/2016
+/*created by Sakthi Ganesh -13/12/2016
  * 
  */
 import java.io.File;
