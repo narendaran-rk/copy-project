@@ -45,7 +45,7 @@ public class HomePage extends BasePage {
 	
 	//Search for places to travel between
 	public void travelSearch() throws InterruptedException{
-		driver.get("http://www.goeuro.com");
+		
 		frmFilter.sendKeys("Berlin");
 	    listSearch(frmList, "Berlin");
 		toFilter.sendKeys("prague");
