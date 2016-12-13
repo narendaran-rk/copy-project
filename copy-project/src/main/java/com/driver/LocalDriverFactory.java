@@ -17,6 +17,7 @@ public class LocalDriverFactory {
             return driver;
 
 	}
+		//Can throw error if browser not supported or handle where this is called
 		return driver;
 
 }
