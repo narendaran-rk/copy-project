@@ -24,7 +24,7 @@ public class LoadProperty {
 			value =prop.getProperty(key);
 			
 		}catch(Exception e){
-			
+			// Log some error here if you use loggers
 		}
 		return value;
 		
