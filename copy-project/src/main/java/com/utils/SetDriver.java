@@ -5,7 +5,7 @@ package com.utils;
  */
 import java.io.File;
 
-
+// 1) Class name can be changed to DriverManager or something different SetDriver seems likes a method name
 public class SetDriver {
 
 	private static String MacDriver = LoadProperty.getProperty("chromedriver");
